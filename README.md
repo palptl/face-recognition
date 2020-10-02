@@ -1,2 +1,2 @@
 # face-recognition
-This jupyter notebook identifies face using Keras
+This jupyter notebook identifies face using Keras and opencv
